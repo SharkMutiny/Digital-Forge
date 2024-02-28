@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Survey Form</title>
+  <link rel="stylesheet" href="surveyformstyles.css">
+</head>
+<h1 id="title">Survey Form</h1>
+<p id="description">Thank you for helping us improve our service</p>
+<section>
+  <form id="survey-form">
+    <fieldset>
+      <label id="name-label" for="name">Name<input id="name" name="name" type="text" placeholder="Enter your name" required>
+      <label id="email-label" for="email">Email<input id="email" name="email" type="email" placeholder="Enter your email" required>
+      <label id="number-label" for="number">Age (optional)<input id="number" name="number" type="number" placeholder="Enter your age" min="10" max="120" required>
+    </fieldset>
+    <fieldset>
+    <label for="dropdown">How did you find us?
+      <select id="dropdown">
+        <option value="">(Please choose one)</option>
+        <option value="1">Online Ad</option>
+        <option value="2">Word of mouth</option>
+        <option value="3">Other</option>
+      </select>
+    </fieldset>
+  <fieldset>
+    <label for="recommend">Would you recommend us to a friend?
+  <label id="yes"><input type="radio" value="yes" name="yes-no" class="inline">Yes
+  <label id="no"><input type="radio" value="no" name="yes-no" class="inline">No
+  </fieldset>
+  <fieldset>
+    <label>What can we improve on?</label>
+    <input type="checkbox" class="inline" value="html">HTML
+    <input type="checkbox" class="inline" value="css">CSS
+  </fieldset>
+  <fieldset>
+    <label>Any comments or suggestions?</label>
+    <textarea id="comment" rows="3" placeholder="Enter your comments here..." ></textarea>
+  </fieldset>
+    <input type="submit" id="submit">
+  </form>
+</section>
+</html>
