@@ -37,7 +37,7 @@ Legacy Lessons
 JavaScript
 JavaScript Algorithms and Data Structures (Beta) Cert
 1. Role Playing Game
-
+2. Calorie Counter - Currently Doing
 
 
 
