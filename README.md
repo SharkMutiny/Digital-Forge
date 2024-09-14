@@ -44,6 +44,8 @@ Zero to Mastery
 
 Complete Web Developer 2024 - Currently Doing
 1. CSS Layout
+2. Calculator using prompt()
+3. Keyless Car
 
 
 
