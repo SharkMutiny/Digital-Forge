@@ -1,4 +1,5 @@
 // else if statement excersise (pretend you a keyless car)
+
 var age = prompt("What is your age?");
 
 if (Number(age) < 18) {

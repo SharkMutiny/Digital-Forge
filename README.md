@@ -1,10 +1,9 @@
-Lessons I have completed whilst learning.
+### A list of lessons I have completed whilst learning.
 
-----------------------
-freeCodeCamp
+# freeCodeCamp
 
-HTML and CSS
-Responsive Web Design Cert (Completed)
+## HTML and CSS
+### Responsive Web Design Cert (Completed)
 1. Cat Photo App
 2. Cafe Menu
 3. Colored Markers
@@ -26,26 +25,31 @@ Responsive Web Design Cert (Completed)
 19. Penguin
 20. Personal Portfolio - Solo Project
 
-Legacy Curriculum:
+### Legacy HTML and CSS Curriculum:
 1. Picasso Painting
 2. The Odin Project - freeCodeCamp Remix (Beta)
 3. Legacy Responsive Web Design Challenges
    
 
-JavaScript
-JavaScript Algorithms and Data Structures (Beta) Cert
-1. Role Playing Game
-2. Calorie Counter - Currently Doing
+## JavaScript
+### JavaScript Algorithms and Data Structures (Beta) Cert
+1. Pyramid Generator
+2. 
+3. Role Playing Game
+4. 
+5. ~~Calorie Counter - On Hold~~
 
 
 
------------------------
-Zero to Mastery
+#
+#
+# Zero to Mastery
 
-Complete Web Developer 2024 - Currently Doing
+## Complete Web Developer 2024 - Currently Doing
 1. CSS Layout
 2. Calculator using prompt()
-3. Keyless Car
+3. Keyless Car (If Else)
+4. Better Keyless Car (Functions)
 
 
 
