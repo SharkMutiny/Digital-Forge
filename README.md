@@ -34,15 +34,11 @@
 ## JavaScript
 ### JavaScript Algorithms and Data Structures (Beta) Cert
 1. Pyramid Generator
-2. 
+2. Gradebook App
 3. Role Playing Game
-4. 
-5. ~~Calorie Counter - On Hold~~
 
 
 
-#
-#
 # Zero to Mastery
 
 ## Complete Web Developer 2024 - Currently Doing
@@ -50,6 +46,9 @@
 2. Calculator using prompt()
 3. Keyless Car (If Else)
 4. Better Keyless Car (Functions)
+5. Objects and Arrays
+6. Build FB
+7. Build Better FB
 
 
 
