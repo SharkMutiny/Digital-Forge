@@ -46,10 +46,11 @@
 2. Calculator using prompt()
 3. Keyless Car (If Else)
 4. Better Keyless Car (Functions)
-5. Objects and Arrays
-6. Build FB
-7. Build Better FB
-
+5. Arrays
+6. Objects and Arrays
+7. Build FB
+8. Build Better FB
+9. DOM Events
 
 
 
