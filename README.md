@@ -3,7 +3,7 @@
 # freeCodeCamp
 
 ## HTML and CSS
-### Responsive Web Design Cert (Completed)
+### Responsive Web Design Cert: (Completed Cert)
 1. Cat Photo App
 2. Cafe Menu
 3. Colored Markers
@@ -32,10 +32,11 @@
    
 
 ## JavaScript
-### JavaScript Algorithms and Data Structures (Beta) Cert
+### JavaScript Algorithms and Data Structures (Beta) Cert: (Ongoing)
 1. Pyramid Generator
 2. Gradebook App
 3. Role Playing Game
+4. Random Background Color Changer
 
 
 
