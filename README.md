@@ -54,4 +54,5 @@
 
 
 
-
+# Misc
+1. Slot Machine
