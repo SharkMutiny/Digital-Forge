@@ -37,6 +37,7 @@
 2. Gradebook App
 3. Role Playing Game
 4. Random Background Color Changer
+5. Calorie Counter
 
 
 
