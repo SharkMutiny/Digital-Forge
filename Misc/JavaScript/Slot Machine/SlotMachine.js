@@ -28,10 +28,6 @@ const SYMBOLS_VALUES = {
 }
 
 
-
-
-
-
 const deposit = () => {
     while (true) {
         const depositAmount = prompt("Enter a deposit amount: ");
@@ -103,7 +99,7 @@ const transpose = (reels) => {
             rows[i].push(reels[j][i])
         }
     }
-    return  rows
+    return rows
 };
 
 const printRows = (rows) => {
@@ -139,15 +135,33 @@ const getWinnings = (rows, bet, lines) => {
     }
 
     return winnings;
-}
+};
 
+const game = () => {
+    let balance = deposit();
 
-let balance = deposit();
-const numberOfLines = getNumberOfLines();
-const bet = getBet(balance, numberOfLines);
-const reels = spin();
-const rows = transpose(reels);
+    while (true) {
+        console.log("You have a balance of $" + balance)
+        const numberOfLines = getNumberOfLines();
+        const bet = getBet(balance, numberOfLines);
+        balance -= bet * numberOfLines;
+        const reels = spin();
+        const rows = transpose(reels);
+        printRows(rows);
+        const winnings = getWinnings(rows, bet, numberOfLines);
+        balance += winnings;
+        console.log("You won, $" + winnings.toString());
 
-printRows(rows);
-const winnings = getWinnings(rows, bet, numberOfLines);
-console.log("You won, $" + winnings.toString());
+        if (balance <= 0) {
+            console.log("You ran out of money!");
+            break;
+        }
+
+        const playAgain = prompt("Do you want to play again (y/n)? ");
+
+        if (playAgain != "y") break;
+
+    }
+};
+
+game();
