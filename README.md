@@ -53,8 +53,9 @@
 7. Build FB
 8. Build Better FB
 9. DOM Events
-
+10. DOM Task List
 
 
 # Misc
 1. Slot Machine
+2. Choose Your Adventure Maze
