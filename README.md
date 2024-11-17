@@ -55,6 +55,10 @@
 9. DOM Events
 10. DOM Task List
 
+## Other
+1. Video Duration in Folder - Python
+
+
 
 # Misc
 1. Slot Machine
