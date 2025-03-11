@@ -2,7 +2,13 @@
 
 # freeCodeCamp
 
-## HTML and CSS
+### Certified Full Stack Developer Curriculum
+(W) Workshop  (L) Lab
+W. Cat Photo App
+L. Recipe Page
+
+
+## Archived Courses
 ### Responsive Web Design Cert: (Completed Cert)
 1. Cat Photo App
 2. Cafe Menu
@@ -24,20 +30,18 @@
 18. Ferris Wheel
 19. Penguin
 20. Personal Portfolio - Solo Project
-
-### Legacy HTML and CSS Curriculum:
-1. Picasso Painting
-2. The Odin Project - freeCodeCamp Remix (Beta)
-3. Legacy Responsive Web Design Challenges
    
-
-## JavaScript
-### JavaScript Algorithms and Data Structures (Beta) Cert: (Ongoing)
+### JavaScript Algorithms and Data Structures Cert:
 1. Pyramid Generator
 2. Gradebook App
 3. Role Playing Game
 4. Random Background Color Changer
 5. Calorie Counter
+
+### Legacy HTML and CSS Curriculum:
+1. Picasso Painting
+2. The Odin Project - freeCodeCamp Remix (HTML & CSS)
+3. Legacy Responsive Web Design Challenges
 
 
 
