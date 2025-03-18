@@ -6,7 +6,12 @@
 (W) Workshop  (L) Lab
 W. Cat Photo App
 L. Recipe Page
-L. Tavel Agency Page
+L. Travel Agency Page
+L. Video Compilation Page
+W. Cat Blog Page
+L. Event Hub
+
+
 
 ## Archived Courses
 ### Responsive Web Design Cert: (Completed Cert)
