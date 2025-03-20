@@ -2,24 +2,30 @@
 
 # freeCodeCamp
 
-### Certified Full Stack Developer Curriculum
+## Certified Full Stack Developer Curriculum
 (W) Workshop  (L) Lab
+### HTML
 W. Cat Photo App
 L. Recipe Page
 L. Travel Agency Page
 L. Video Compilation Page
 W. Cat Blog Page
 L. Event Hub
+W. Hotel Feedback Form
+L. Survey Form
+W. Final Exams Table
+L. Book Catalog Table
+L. Checkout Page
 
+## CSS
+W. Cafe Menu
 
 
 ## Archived Courses
 ### Responsive Web Design Cert: (Completed Cert)
-1. Cat Photo App
-2. Cafe Menu
+* Some projects used in new curriculum and listed there
 3. Colored Markers
 4. Registration Form
-5. Survey Form - Solo Project
 6. Rothko Painting
 7. Photo Gallery
 8. Nutrition Label
