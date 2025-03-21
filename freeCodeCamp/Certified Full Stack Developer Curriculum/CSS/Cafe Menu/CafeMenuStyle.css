@@ -1,4 +1,4 @@
-body {
+bbody {
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
   font-family: sans-serif;
   padding: 20px;
@@ -73,6 +73,10 @@ h1, h2 {
 
 footer {
   font-size: 14px;
+}
+
+address {
+  font-style: normal;
 }
 
 .address {
