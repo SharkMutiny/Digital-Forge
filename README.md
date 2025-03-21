@@ -4,7 +4,7 @@
 
 ## Certified Full Stack Developer Curriculum
 (W) Workshop  (L) Lab
-### HTML
+### HTML  (Complete)
 W. Cat Photo App
 L. Recipe Page
 L. Travel Agency Page
@@ -19,6 +19,7 @@ L. Checkout Page
 
 ## CSS
 W. Cafe Menu
+
 
 
 ## Archived Courses
