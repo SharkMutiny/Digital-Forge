@@ -16,7 +16,8 @@ L. Survey Form
 W. Final Exams Table
 L. Book Catalog Table
 L. Checkout Page
-L. Multimedia Page
+L. Movie Review Page
+L. Multimedia Player Page
 
 ## CSS
 W. Cafe Menu
