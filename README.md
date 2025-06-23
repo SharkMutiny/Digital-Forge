@@ -48,7 +48,7 @@ L. Business Card
    
 ### JavaScript Algorithms and Data Structures Cert:
 1. Pyramid Generator
-2. Gradebook App
+2. Grade Book App
 3. Role Playing Game
 4. Random Background Color Changer
 5. Calorie Counter
