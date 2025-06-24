@@ -5,6 +5,9 @@
 ## Certified Full Stack Developer Curriculum
 (W) Workshop  (L) Lab
 ### HTML  (Complete)
+W. Curriculum Outline
+L. Debug Profile Page
+L. Debug Pet Page
 W. Cat Photo App
 L. Recipe Page
 L. Travel Agency Page
@@ -22,6 +25,7 @@ L. Multimedia Player Page
 ## CSS
 W. Cafe Menu
 L. Business Card
+L. Stylized To-Do List
 
 
 
