@@ -27,6 +27,8 @@ W. Cafe Menu
 L. Business Card
 L. Stylized To-Do List
 
+## JavaScript
+W. Greeting Bot
 
 
 ## Archived Courses
