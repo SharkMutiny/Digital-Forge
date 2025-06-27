@@ -29,6 +29,9 @@ L. Stylized To-Do List
 
 ## JavaScript
 W. Greeting Bot
+L. Trivia Bot
+L. Sentence Maker
+
 
 
 ## Archived Courses
