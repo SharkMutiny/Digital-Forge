@@ -7,13 +7,24 @@ let favoriteLanguage = "JavaScript";
 console.log("My name is " + botName + " and I live on " + botLocation + ".");
 console.log("My favorite programming language is " + favoriteLanguage + ".");
 
-let codingFact = favoriteLanguage + " is a programming language used in front-end and back-end.";
+let codingFact =
+  favoriteLanguage +
+  " is a programming language used in front-end and back-end.";
 console.log(codingFact);
 
 codingFact = favoriteLanguage + " is one of the most used languages";
 console.log(codingFact);
 
-codingFact = "Did you also know " + favoriteLanguage + " is essential for front-end development.";
+codingFact =
+  "Did you also know " +
+  favoriteLanguage +
+  " is essential for front-end development.";
 console.log(codingFact);
 
-console.log("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + ".")
+console.log(
+  "It was fun sharing these facts with you. Goodbye! - " +
+    botName +
+    " from " +
+    botLocation +
+    "."
+);
