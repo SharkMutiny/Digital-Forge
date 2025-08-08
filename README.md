@@ -11,6 +11,7 @@ L. Debug Pet Page
 W. Cat Photo App
 L. Recipe Page
 L. Travel Agency Page
+W. Heart Icon
 L. Video Compilation Page
 W. Cat Blog Page
 L. Event Hub
