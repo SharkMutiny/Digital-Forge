@@ -4,7 +4,7 @@
 
 ## Certified Full Stack Developer Curriculum
 
-(W) Workshop (L) Lab
+_(W) Workshop (L) Lab_
 
 ### HTML (Complete)
 
@@ -26,12 +26,12 @@ L. Checkout Page
 L. Movie Review Page  
 L. Multimedia Player Page  
 
-## CSS
+### CSS
 W. Cafe Menu  
 L. Business Card  
 L. Stylized To-Do List  
 
-## JavaScript
+### JavaScript
 
 W. Greeting Bot  
 L. Trivia Bot  
@@ -73,11 +73,13 @@ _Some projects used in new curriculum and listed there_
 
 - Picasso Painting
 - The Odin Project - freeCodeCamp Remix (HTML & CSS)
-- Legacy Responsive Web Design Challenges
+- Legacy Responsive Web Design Challenges  
+<br>
+<br>
 
 # Zero to Mastery
 
-## Complete Web Developer 2024 - Currently Doing
+## Complete Web Developer 2025 - Currently Doing
 
 - CSS Layout
 - Calculator using prompt()
@@ -92,7 +94,9 @@ _Some projects used in new curriculum and listed there_
 
 ## Other
 
-- Video Duration in Folder - Python
+- Video Duration in Folder - Python  
+<br>
+<br>
 
 # Misc
 
