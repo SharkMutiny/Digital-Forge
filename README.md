@@ -3,92 +3,98 @@
 # freeCodeCamp
 
 ## Certified Full Stack Developer Curriculum
-(W) Workshop  (L) Lab
-### HTML  (Complete)
-W. Curriculum Outline
-L. Debug Profile Page
-L. Debug Pet Page
-W. Cat Photo App
-L. Recipe Page
-L. Travel Agency Page
-W. Heart Icon
-L. Video Compilation Page
-W. Cat Blog Page
-L. Event Hub
-W. Hotel Feedback Form
-L. Survey Form
-W. Final Exams Table
-L. Book Catalog Table
-L. Checkout Page
-L. Movie Review Page
-L. Multimedia Player Page
+
+(W) Workshop (L) Lab
+
+### HTML (Complete)
+
+W. Curriculum Outline  
+L. Debug Profile Page  
+L. Debug Pet Page  
+W. Cat Photo App  
+L. Recipe Page  
+L. Travel Agency Page  
+W. Heart Icon  
+L. Video Compilation Page  
+W. Cat Blog Page  
+L. Event Hub  
+W. Hotel Feedback Form  
+L. Survey Form  
+W. Final Exams Table  
+L. Book Catalog Table  
+L. Checkout Page  
+L. Movie Review Page  
+L. Multimedia Player Page  
 
 ## CSS
-W. Cafe Menu
-L. Business Card
-L. Stylized To-Do List
+W. Cafe Menu  
+L. Business Card  
+L. Stylized To-Do List  
 
 ## JavaScript
-W. Greeting Bot
-L. Trivia Bot
-L. Sentence Maker
 
-
+W. Greeting Bot  
+L. Trivia Bot  
+L. Sentence Maker  
 
 ## Archived Courses
+
 ### Responsive Web Design Cert: (Completed Cert)
-* Some projects used in new curriculum and listed there
-3. Colored Markers
-4. Registration Form
-6. Rothko Painting
-7. Photo Gallery
-8. Nutrition Label
-9. Accessibility Quiz
-10. Tribute Page - Solo Project
-11. Balance Sheet
-12. Cat Painting
-13. Piano
-14. Technical Documentation - Solo Project
-15. City Skyline
-16. Magazine
-17. Produce Landing Page - Solo Project
-18. Ferris Wheel
-19. Penguin
-20. Personal Portfolio - Solo Project
-   
+
+_Some projects used in new curriculum and listed there_
+
+- Colored Markers
+- Registration Form
+- Rothko Painting
+- Photo Gallery
+- Nutrition Label
+- Accessibility Quiz
+- Tribute Page - Solo Project
+- Balance Sheet
+- Cat Painting
+- Piano
+- Technical Documentation - Solo Project
+- City Skyline
+- Magazine
+- Produce Landing Page - Solo Project
+- Ferris Wheel
+- Penguin
+- Personal Portfolio - Solo Project
+
 ### JavaScript Algorithms and Data Structures Cert:
-1. Pyramid Generator
-2. Grade Book App
-3. Role Playing Game
-4. Random Background Color Changer
-5. Calorie Counter
+
+- Pyramid Generator
+- Grade Book App
+- Role Playing Game
+- Random Background Color Changer
+- Calorie Counter
 
 ### Legacy HTML and CSS Curriculum:
-1. Picasso Painting
-2. The Odin Project - freeCodeCamp Remix (HTML & CSS)
-3. Legacy Responsive Web Design Challenges
 
-
+- Picasso Painting
+- The Odin Project - freeCodeCamp Remix (HTML & CSS)
+- Legacy Responsive Web Design Challenges
 
 # Zero to Mastery
 
 ## Complete Web Developer 2024 - Currently Doing
-1. CSS Layout
-2. Calculator using prompt()
-3. Keyless Car (If Else)
-4. Better Keyless Car (Functions)
-5. Arrays
-6. Objects and Arrays
-7. Build FB
-8. Build Better FB
-9. DOM Events
-10. DOM Task List
+
+- CSS Layout
+- Calculator using prompt()
+- Keyless Car (If Else)
+- Better Keyless Car (Functions)
+- Arrays
+- Objects and Arrays
+- Build FB
+- Build Better FB
+- DOM Events
+- DOM Task List
 
 ## Other
-1. Video Duration in Folder - Python
 
-
+- Video Duration in Folder - Python
 
 # Misc
-1. Slot Machine
-2. Choose Your Adventure Maze
+
+- Slot Machine
+- Choose Your Adventure Maze
