@@ -30,6 +30,8 @@ L. Multimedia Player Page
 W. Cafe Menu  
 L. Business Card  
 L. Stylized To-Do List  
+L. Blog Post Card  
+W. Greeting Card  
 
 ### JavaScript
 
