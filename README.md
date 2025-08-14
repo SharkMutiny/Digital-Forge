@@ -31,7 +31,12 @@ W. Cafe Menu
 L. Business Card  
 L. Stylized To-Do List  
 L. Blog Post Card  
+L. Event Flyer  
 W. Greeting Card  
+W. Colored Markers  
+L. Colored Boxes  
+W. Registration Form  
+
 
 ### JavaScript
 
@@ -45,8 +50,6 @@ L. Sentence Maker
 
 _Some projects used in new curriculum and listed there_
 
-- Colored Markers
-- Registration Form
 - Rothko Painting
 - Photo Gallery
 - Nutrition Label
