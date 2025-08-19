@@ -6,11 +6,53 @@ html {
 }
 body {
     font-family: 'Open Sans', sans-serif;
+    width: 40%;
+    margin: 0 auto;
 }
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    list-style-type: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Kavivanar', cursive;
     font-weight: normal;
 }
+
+h1 {
+    color: #DA0090;
+    font-size: 3rem;
+    font-weight: 800;
+    margin: 0;
+    padding: 0 20px;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin: 0;
+    padding: 0 20px;
+}
+
+nav {
+    border-top: 2px solid #DA0090;
+    border-bottom: 2px solid #A51F10;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 30px;
+}
+
 h2 {
     font-size: 2rem;
     color: #A51F10;
@@ -30,4 +72,27 @@ a:hover {
 footer {
     text-align: center;
     font-size: 0.8rem;
+    border-top: 2px solid #A51F10;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+}
+footer ul li {
+    margin: 0 5px;
+}
+
+.floatleft {
+    float: left;
+    margin: 10px;
+    border-radius: 20px;
+}
+article {
+    margin: 10px 20px 40px 20px;
+    padding: 20px;
+}
+section {
+    border-bottom: 2px solid #DA0090;
+    margin: 5px 0;
 }
