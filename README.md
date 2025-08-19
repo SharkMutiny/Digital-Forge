@@ -33,9 +33,27 @@ L. Stylized To-Do List
 L. Blog Post Card  
 L. Event Flyer  
 W. Greeting Card  
+L. Job Application Form  
 W. Colored Markers  
 L. Colored Boxes  
 W. Registration Form  
+L. Contact Form  
+W. Rothko Painting  
+L. Confidential Email  
+W. Flexbox Photo Gallery  
+W. Nutrition Label  
+W. Accessibility Quiz  
+L. Tribute Page (old solo project)  
+W. Cat Painting  
+W. Balance Sheet  
+W. Piano  
+L. Technical Documentation (old solo project)  
+W. City Skyline  
+W. Magazine  
+L. Product Landing Page (old solo project)  
+W. Animated Ferris Wheel  
+W. Flappy Penguin  
+L. Personal Portfolio (old solo project)  
 
 
 ### JavaScript
@@ -47,24 +65,6 @@ L. Sentence Maker
 ## Archived Courses
 
 ### Responsive Web Design Cert: (Completed Cert)
-
-_Some projects used in new curriculum and listed there_
-
-- Rothko Painting
-- Photo Gallery
-- Nutrition Label
-- Accessibility Quiz
-- Tribute Page - Solo Project
-- Balance Sheet
-- Cat Painting
-- Piano
-- Technical Documentation - Solo Project
-- City Skyline
-- Magazine
-- Produce Landing Page - Solo Project
-- Ferris Wheel
-- Penguin
-- Personal Portfolio - Solo Project
 
 ### JavaScript Algorithms and Data Structures Cert:
 
@@ -100,6 +100,12 @@ _Some projects used in new curriculum and listed there_
 ## Other
 
 - Video Duration in Folder - Python  
+<br>
+<br>
+
+# Frontend Masters
+
+- Blog Page
 <br>
 <br>
 
