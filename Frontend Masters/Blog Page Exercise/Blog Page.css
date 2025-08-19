@@ -6,7 +6,7 @@ html {
 }
 body {
     font-family: 'Open Sans', sans-serif;
-    width: 40%;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -83,15 +83,23 @@ footer ul li {
     margin: 0 5px;
 }
 
-.floatleft {
-    float: left;
-    margin: 10px;
-    border-radius: 20px;
-}
 article {
     margin: 10px 20px 40px 20px;
     padding: 20px;
 }
+
+article img{
+    float: left;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+article:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 section {
     border-bottom: 2px solid #DA0090;
     margin: 5px 0;
