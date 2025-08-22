@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>Alien Abduction Order Form</title>
+    <link href="https://fonts.googleapis.com/css?family=Mali" rel="stylesheet">
     <link href="forms.css" rel="stylesheet" />
   </head>
   <body>
@@ -14,8 +15,8 @@
           one of our fine UFOs.
         </p>
 
-        <form action="" method="">
-			<input type="hidden" name="send_to" value="">
+        <form action="https://" method="post">
+          <input type="hidden" name="send_to" value="" />
           <fieldset>
             <legend>Your contact information</legend>
             <label for="name">Your name </label>
@@ -72,16 +73,25 @@
               Add me to your email list</label
             >
           </fieldset>
-		  <button type="submit">Order</button>
+          <button type="submit">Order</button>
         </form>
       </section>
       <aside>
         <h3>Our Location</h3>
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d90325.28539613367!2d-93.33151812543683!3d44.97079704339309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b333909377bbbd%3A0x939fc9842f7aee07!2sMinneapolis%2C+MN!5e0!3m2!1sen!2sus!4v1540581288890"
+          width="600"
+          height="450"
+          frameborder="0"
+          style="border: 0"
+          allowfullscreen
+        ></iframe>
         <address>
           Frontend Masters &middot; 60 South 6th Street &middot; Suite 3625
           &middot; Minneapolis, MN 55402
         </address>
       </aside>
     </div>
+    <script src="forms.js"></script>
   </body>
 </html>
