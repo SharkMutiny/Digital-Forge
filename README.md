@@ -106,6 +106,7 @@ L. Sentence Maker
 # Frontend Masters
 
 - Blog Page
+- Forms
 <br>
 <br>
 
