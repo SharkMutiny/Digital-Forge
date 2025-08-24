@@ -107,6 +107,10 @@ L. Sentence Maker
 
 - Blog Page
 - Forms
+- Calculator HTML and CSS
+- JS Experiments
+- JS Functions and Scope
+- JS Quiz
 <br>
 <br>
 
