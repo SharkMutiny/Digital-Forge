@@ -6,6 +6,47 @@
 
 _(W) Workshop (L) Lab_
 
+### JavaScript
+
+W. Greeting Bot  
+L. Trivia Bot  
+L. Sentence Maker  
+W. Teacher Chatbot  
+W. Mathbot  
+
+
+### CSS
+W. Cafe Menu  
+L. Business Card  
+L. Stylized To-Do List  
+L. Blog Post Card  
+L. Event Flyer  
+W. Greeting Card  
+L. Job Application Form  
+W. Colored Markers  
+L. Colored Boxes  
+W. Registration Form  
+L. Contact Form  
+W. Rothko Painting  
+L. Confidential Email  
+W. Flexbox Photo Gallery  
+L. Playing Cards  
+W. Nutrition Label  
+L. Newspaper Article  
+W. Accessibility Quiz  
+L. Tribute Page (old solo project)  
+W. Cat Painting  
+W. Balance Sheet  
+W. Piano  
+L. Technical Documentation (old solo project)  
+W. City Skyline  
+W. Magazine  
+L. Product Landing Page (old solo project)  
+W. Animated Ferris Wheel  
+W. Flappy Penguin  
+L. Personal Portfolio (old solo project) 
+
+
 ### HTML (Complete)
 
 W. Curriculum Outline  
@@ -26,41 +67,6 @@ L. Checkout Page
 L. Movie Review Page  
 L. Multimedia Player Page  
 
-### CSS
-W. Cafe Menu  
-L. Business Card  
-L. Stylized To-Do List  
-L. Blog Post Card  
-L. Event Flyer  
-W. Greeting Card  
-L. Job Application Form  
-W. Colored Markers  
-L. Colored Boxes  
-W. Registration Form  
-L. Contact Form  
-W. Rothko Painting  
-L. Confidential Email  
-W. Flexbox Photo Gallery  
-W. Nutrition Label  
-W. Accessibility Quiz  
-L. Tribute Page (old solo project)  
-W. Cat Painting  
-W. Balance Sheet  
-W. Piano  
-L. Technical Documentation (old solo project)  
-W. City Skyline  
-W. Magazine  
-L. Product Landing Page (old solo project)  
-W. Animated Ferris Wheel  
-W. Flappy Penguin  
-L. Personal Portfolio (old solo project)  
-
-
-### JavaScript
-
-W. Greeting Bot  
-L. Trivia Bot  
-L. Sentence Maker  
 
 ## Archived Courses
 
@@ -111,6 +117,8 @@ L. Sentence Maker
 - JS Experiments
 - JS Functions and Scope
 - JS Quiz
+- JS Objects and Arrays
+
 <br>
 <br>
 
