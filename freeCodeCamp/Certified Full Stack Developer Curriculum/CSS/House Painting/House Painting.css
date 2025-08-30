@@ -1,25 +1,29 @@
 #house {
   position: relative;
-  border: 3px solid peru;
+  border: 2px solid peru;
   background-color: sandybrown;
   height: 400px;
   width: 500px;
+  margin: 150px auto;
 }
 
 #chimney {
   position: absolute;
   border: 3px solid peru;
-  background-color: tan;
+  background-color: brown;
   height: 100px;
   width: 50px;
+  top: -100px;
+  left: 350px;
+  z-index: -1;
 }
 
 #roof {
   position: absolute;
-  border: 3px solid peru;
+  border: 1px solid peru;
   background-color: tan;
-  height: 100px;
-  width: 50px;
+  height: 140px;
+  width: 500px;
 }
 
 #window-1 {
@@ -28,6 +32,8 @@
   background-color: palegreen;
   height: 100px;
   width: 100px;
+  bottom: 100px;
+  left: 50px;
 }
 
 #window-2 {
@@ -36,6 +42,8 @@
   background-color: palegreen;
   height: 100px;
   width: 100px;
+  bottom: 100px;
+  left: 350px;
 }
 
 #door {
@@ -44,4 +52,6 @@
   background-color: royalblue;
   height: 100px;
   width: 80px;
+  bottom: 0;
+  left: 210px;
 }
