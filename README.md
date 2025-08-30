@@ -34,17 +34,19 @@ L. Playing Cards
 W. Nutrition Label  
 L. Newspaper Article  
 W. Accessibility Quiz  
-L. Tribute Page (old solo project)  
+L. Tribute Page
 W. Cat Painting  
+L. House Painting  
 W. Balance Sheet  
+L. Book Inventory App  
 W. Piano  
-L. Technical Documentation (old solo project)  
+L. Technical Documentation
 W. City Skyline  
 W. Magazine  
-L. Product Landing Page (old solo project)  
+L. Product Landing Page
 W. Animated Ferris Wheel  
 W. Flappy Penguin  
-L. Personal Portfolio (old solo project) 
+L. Personal Portfolio
 
 
 ### HTML (Complete)
