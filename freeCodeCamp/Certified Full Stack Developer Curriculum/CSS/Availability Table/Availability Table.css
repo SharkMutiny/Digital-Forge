@@ -1,15 +1,82 @@
+:root {
+  --color0: #ffffff;
+  --color1: #d2f2d4;
+  --color2: #7be382;
+  --color3: #26cc00;
+  --color4: #22b600;
+  --color5: #009c1a;
+  --solid-border: 1px solid black;
+  --dashed-border: 1px dashed black;
+  --background: #fce5cd;
+}
+
 body {
-  background-color: rgb(237, 206, 150);
+  background-color: var(--background);
 }
 
 table {
-  margin: 0 auto;
-}
-
-.available-1 {
-  background-color: green;
+  border-collapse: collapse;
+  margin: 100px auto;
 }
 
 td {
   width: 100px;
+  height: 20px;
+}
+
+
+.sharp td {
+  border-bottom: var(--solid-border);
+}
+.sharp td:first-of-type {
+  border-left: var(--solid-border);
+}
+.sharp td:last-of-type {
+  border-right: var(--solid-border);
+}
+
+.half td {
+  border-bottom: var(--dashed-border);
+}
+.half td:first-of-type {
+  border-left: var(--solid-border);
+}
+.half td:last-of-type {
+  border-right: var(--solid-border);
+}
+
+.bb {
+  border-bottom: var(--solid-border);
+}
+
+.available-0 {
+  background-color: var(--color0);
+}
+.available-1 {
+  background-color: var(--color1);
+}
+.available-2 {
+  background-color: var(--color2);
+}
+.available-3 {
+  background-color: var(--color3);
+}
+.available-4 {
+  background-color: var(--color4);
+}
+.available-5 {
+  background-color: var(--color5);
+}
+
+#legend {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+#legend-gradient {
+  margin: 0 auto;
+  height: 50px;
+  width: 400px;
+  border: var(--solid-border);
+  background-image: linear-gradient(to right, var(--color0) 0% 16%, var(--color1) 16% 33%, var(--color2) 33% 50%, var(--color3) 50% 67%, var(--color4) 67% 84%, var(--color5) 84% 100%);
 }
