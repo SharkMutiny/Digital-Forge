@@ -13,9 +13,10 @@ L. Trivia Bot
 L. Sentence Maker  
 W. Teacher Chatbot  
 W. Mathbot  
+L. Fortune Teller  
 
 
-### CSS
+### CSS (Complete)
 W. Cafe Menu  
 L. Business Card  
 L. Stylized To-Do List  
@@ -40,14 +41,16 @@ L. House Painting
 W. Balance Sheet  
 L. Book Inventory App  
 W. Piano  
-L. Technical Documentation
+L. Technical Documentation  
 W. City Skyline  
+L. Availability Table  
 W. Magazine  
-L. Product Landing Page
+L. Magazine Layout  
+L. Product Landing Page  
 W. Animated Ferris Wheel  
 L. Moon Orbit  
 W. Flappy Penguin  
-L. Personal Portfolio
+L. Personal Portfolio  
 
 
 ### HTML (Complete)
