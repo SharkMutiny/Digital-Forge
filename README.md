@@ -98,7 +98,10 @@ L. Multimedia Player Page
 
 ## Complete Web Developer 2025 - Currently Doing
 
+- CSS Basics
 - CSS Layout
+- CSS Flexbox
+- CSS Robot
 - Calculator using prompt()
 - Keyless Car (If Else)
 - Better Keyless Car (Functions)
