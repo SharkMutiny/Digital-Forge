@@ -102,6 +102,8 @@ L. Multimedia Player Page
 - CSS Layout
 - CSS Flexbox
 - CSS Robot
+- Bootstrap Fast and Furious
+- Startup Landing Page
 - Calculator using prompt()
 - Keyless Car (If Else)
 - Better Keyless Car (Functions)
