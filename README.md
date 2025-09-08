@@ -105,6 +105,9 @@ L. Multimedia Player Page
 - Startup Landing Page
 - CSS Grid
 - CSS Layout
+- JavaScript Notes
+- JS Comparisons
+- JS Variables
 - Calculator using prompt()
 - Keyless Car (If Else)
 - Better Keyless Car (Functions)
