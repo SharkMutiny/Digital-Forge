@@ -1,4 +1,4 @@
-// excercise of modifying arrays
+// exercise of modifying arrays
 // using this array
 var array = ["Banana", "Apples", "Oranges", "Blueberries"];
 
