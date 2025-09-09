@@ -11,6 +11,7 @@ var newFunction = function() {
 // expression ;
 3+2;
 var a = 2;
+return true;
 
 // calling or invoking a function
 alert();
