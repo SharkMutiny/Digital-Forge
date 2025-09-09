@@ -15,18 +15,18 @@ var database = [
     }
 ]
 
-// 3. Create an array called "newsfeed" which contains 3 objects with properties "username" and "timeline".
-var newsfeed = [
+// 3. Create an array called "newsFeed" which contains 3 objects with properties "username" and "timeline".
+var newsFeed = [
     {
         username: "mitch",
-        password: "gotisgreat",
+        timeline: "Man how was that episode of that show!",
     },
     {
-        username: "dani",
-        password: "abc123",
+        username: "amy",
+        timeline: "Cleaning up the riffraff in my town!",
     },
     {
         username: "joe",
-        password: "123456",
+        timeline: "724km run today! Feeling great!",
     },
 ]
