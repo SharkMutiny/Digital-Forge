@@ -110,6 +110,7 @@ L. Multimedia Player Page
 - JS Variables
 - Calculator using prompt()
 - Keyless Car (If Else)
+- JS on Webpages
 - Better Keyless Car (Functions)
 - Arrays
 - Objects and Arrays
