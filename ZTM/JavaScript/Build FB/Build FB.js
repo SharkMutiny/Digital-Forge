@@ -1,10 +1,10 @@
-// Exercise - Build a facebook like with login, database and newsfeed
+// Exercise - Build a facebook like with login, database and newsFeed
 
 var database = [
     {
         username: "shark",
         password: "123456",
-    }
+    },
 ];
 
 var newsFeed = [
@@ -14,7 +14,7 @@ var newsFeed = [
     },
     {
         username: "Arnold",
-        timeline: "Sully? I left him go.",
+        timeline: "Sully? I let him go.",
     }
 ];
 
