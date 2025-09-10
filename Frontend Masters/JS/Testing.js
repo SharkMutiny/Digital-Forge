@@ -101,8 +101,19 @@ function sort(list) {
   // sort a list of numbers into ascending order
   // if you need more help, Google how to do bubble sort
   // you can sort, if you want to write it by hand, use bubble sort or insertion sort
+  
+  const sortedList = list.sort(function(num1, num2) {
+    if (num1 > num2) {
+      return 1;
+    } else if (num1 < num2) {
+      return -1;
+    }
+    return 0;
+  });
+  
+// const sortedList = list.sort((a, b) => a - b);
 
-  return [1, 2, 3, 4];
+  return sortedList;
 }
 
 // unit tests
