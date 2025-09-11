@@ -14,6 +14,10 @@ L. Sentence Maker
 W. Teacher Chatbot  
 W. Mathbot  
 L. Fortune Teller  
+W. Calculator  
+L. Boolean Checker  
+L. Email Masker  
+
 
 
 ### CSS (Complete)
@@ -134,6 +138,8 @@ L. Multimedia Player Page
 - JS Functions and Scope
 - JS Quiz
 - JS Objects and Arrays
+- JS Testing
+- DOM
 
 <br>
 <br>
