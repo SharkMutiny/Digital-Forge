@@ -17,6 +17,9 @@ L. Fortune Teller
 W. Calculator  
 L. Boolean Checker  
 L. Email Masker  
+W. Loan Qualification Checker  
+L. Celsius to Fahrenheit Converter  
+
 
 
 
