@@ -19,7 +19,10 @@ L. Boolean Checker
 L. Email Masker  
 W. Loan Qualification Checker  
 L. Celsius to Fahrenheit Converter  
-
+L. Card Counting Assistant  
+L. Leap Year Calculator  
+L. Truncate String Algorithm  
+L. Confirm the Ending  
 
 
 
