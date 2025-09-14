@@ -22,7 +22,9 @@ L. Celsius to Fahrenheit Converter
 L. Card Counting Assistant  
 L. Leap Year Calculator  
 L. Truncate String Algorithm  
-L. Confirm the Ending  
+L. Confirm the Ending 
+W. Shopping List  
+L. Lunch Picker   
 
 
 
