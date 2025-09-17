@@ -31,6 +31,9 @@ L. Golf Score Translator
 L. String Inverter  
 #### Objects
 W. Recipe Tracker  
+L. Quiz Game  
+L. Record Collection  
+#### Loops  
 
 
 
