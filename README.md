@@ -131,7 +131,7 @@ L. Multimedia Player Page
 
 ***
 # Zero to Mastery
-## Complete Web Developer 2025 - Currently Doing
+## Complete Web Developer 2025 - Currently Doing (44% complete)
 #### *Introduction*
 #### *How the internet works*
 #### *History of the web*
@@ -167,6 +167,7 @@ L. Multimedia Player Page
 - DOM Task List
 - Background Gradient Generator
 #### *Advanced JavaScript*
+- Scope
 
 
 ### Other
