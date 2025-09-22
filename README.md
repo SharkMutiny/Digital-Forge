@@ -132,13 +132,25 @@ L. Multimedia Player Page
 ***
 # Zero to Mastery
 ## Complete Web Developer 2025 - Currently Doing
+#### *Introduction*
+#### *How the internet works*
+#### *History of the web*
+#### *A.I. & How to use ChatGPT*
+#### *HTML 5*
+#### *Advanced HTML 5*
+#### *CSS*
 - CSS Basics
+#### *Advanced CSS*
 - CSS Flexbox
 - CSS Robot
+#### *Bootstrap, Templates and building a startup landing page*
 - Bootstrap Fast and Furious
 - Startup Landing Page
+#### *CSS Grid and CSS Layout*
 - CSS Grid
 - CSS Layout
+#### *Career of a web Developer*
+#### *JavaScript*
 - JavaScript Notes
 - JS Comparisons
 - JS Variables
@@ -150,8 +162,12 @@ L. Multimedia Player Page
 - Objects and Arrays
 - Build FB
 - Build Better FB
+#### *DOM Manipulation*
 - DOM Events
 - DOM Task List
+- Background Gradient Generator
+#### *Advanced JavaScript*
+
 
 ### Other
 - Video Duration in Folder - Python  
