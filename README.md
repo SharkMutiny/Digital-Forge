@@ -131,7 +131,7 @@ L. Multimedia Player Page
 
 ***
 # Zero to Mastery
-## Complete Web Developer 2025 - Currently Doing (44% complete)
+## Complete Web Developer 2025 - Currently Doing (45% complete)
 #### *Introduction*
 #### *How the internet works*
 #### *History of the web*
@@ -168,6 +168,8 @@ L. Multimedia Player Page
 - Background Gradient Generator
 #### *Advanced JavaScript*
 - Scope
+- Advanced Control Flow
+
 
 
 ### Other
