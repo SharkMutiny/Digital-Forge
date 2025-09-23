@@ -34,6 +34,11 @@ W. Recipe Tracker
 L. Quiz Game  
 L. Record Collection  
 #### Loops  
+W. Sentence Analyzer  
+L. Longest Word Finder  
+L. Factorial Calculator  
+L. Mutations Algorithm  
+
 
 
 
@@ -169,6 +174,7 @@ L. Multimedia Player Page
 #### *Advanced JavaScript*
 - Scope
 - Advanced Control Flow
+- ES5 and ES6  
 
 
 
