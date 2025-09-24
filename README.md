@@ -174,7 +174,13 @@ L. Multimedia Player Page
 #### *Advanced JavaScript*
 - Scope
 - Advanced Control Flow
-- ES5 and ES6  
+- ES5 and ES6
+- Advanced Functions
+- Advanced Arrays
+- Advanced Objects
+- ES7
+- ES8
+
 
 
 
