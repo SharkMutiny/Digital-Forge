@@ -38,6 +38,7 @@ W. Sentence Analyzer
 L. Longest Word Finder  
 L. Factorial Calculator  
 L. Mutations Algorithm  
+L. Chunky Monkey Algorithm  
 
 
 
