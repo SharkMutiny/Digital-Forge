@@ -137,7 +137,7 @@ L. Multimedia Player Page
 
 ***
 # Zero to Mastery
-## Complete Web Developer 2025 - Currently Doing (45% complete)
+## Complete Web Developer 2025 - Currently Doing (53% complete)
 #### *Introduction*
 #### *How the internet works*
 #### *History of the web*
@@ -182,6 +182,10 @@ L. Multimedia Player Page
 - ES7
 - ES8
 - ES10
+- Advanced Loops
+- ES2020
+- ES2023
+
 
 
 
