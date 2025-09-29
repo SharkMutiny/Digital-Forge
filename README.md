@@ -196,15 +196,26 @@ L. Multimedia Player Page
 
 # Frontend Masters
 ### Bootcamp
-- Blog Page
+#### *Introduction to HTML*
+- Basic HTML
+#### *Introduction to CSS*
+- Blog Page Exercise
+#### *HTML Forms*
 - Forms
-- Calculator HTML and CSS
+#### *Website Embeds & GitHub Pages*
+#### *Calculator Project: HTML & CSS*
+- Calculator
+#### *Introduction to JavaScript*
 - JS Experiments
 - JS Functions and Scope
 - JS Quiz
 - JS Objects and Arrays
 - JS Testing
 - DOM
+#### *Calculator Project: JavaScript*
+- Calculator Project
+#### *Using JavaScript in Websites*
+-
 
 <br>
 <br>
