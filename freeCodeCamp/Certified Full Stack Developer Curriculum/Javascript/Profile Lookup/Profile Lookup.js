@@ -25,3 +25,14 @@ let contacts = [
   },
 ];
 
+function lookUpProfile(name, prop) {
+  if (contacts.find(obj => obj.firstName === name) && contacts.find(obj => obj.hasOwnProperty(prop))) {
+    return contacts.find(obj => obj.firstName === name)[prop]
+  } else if (!contacts.find(obj => obj.firstName === name)) {
+    return "No such contact"
+  } else {
+    return "No such property"
+  }
+}
+
+console.log(lookUpProfile("Akira", "lastName"))
