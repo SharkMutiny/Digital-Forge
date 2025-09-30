@@ -40,6 +40,8 @@ L. Factorial Calculator
 L. Mutations Algorithm  
 L. Chunky Monkey Algorithm  
 L. Profile Lookup  
+L. String Repeating Function  
+
 
 
 
