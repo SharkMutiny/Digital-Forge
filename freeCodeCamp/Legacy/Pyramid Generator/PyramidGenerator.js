@@ -1,6 +1,6 @@
 // Pyramid Generator - Learn Introductory JavaScript by Building a Pyramid Generator
 
-// change these vaules for different pyramids
+// change these values for different pyramids
 const character = "*";
 const count = 20;
 const rows = [];
