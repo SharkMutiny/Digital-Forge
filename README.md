@@ -41,6 +41,8 @@ L. Mutations Algorithm
 L. Chunky Monkey Algorithm  
 L. Profile Lookup  
 L. String Repeating Function  
+L. Missing Letter Detector
+#### JavaScript Fundamentals Review
 
 
 
@@ -117,6 +119,7 @@ L. Survey Form
 W. Final Exams Table  
 L. Book Catalog Table  
 ### Accessibility
+W. Debug a Coding Journey Blog
 L. Checkout Page  
 L. Movie Review Page  
 L. Multimedia Player Page  
