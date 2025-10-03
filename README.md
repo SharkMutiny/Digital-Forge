@@ -201,7 +201,7 @@ L. Multimedia Player Page
 <br>
 
 # Frontend Masters
-### Bootcamp
+## Bootcamp
 #### *Introduction to HTML*
 - Basic HTML
 #### *Introduction to CSS*
@@ -222,6 +222,17 @@ L. Multimedia Player Page
 - Calculator Project
 #### *Using JavaScript in Websites*
 -
+
+<br>
+<br>
+
+# Scrimba
+## Fullstack Path
+#### Introduction
+#### HTML and CSS Fundamentals
+- Google Clone
+#### JavaScript Fundamentals
+
 
 <br>
 <br>
