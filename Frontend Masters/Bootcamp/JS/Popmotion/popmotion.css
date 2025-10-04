@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.main-nav {
+  background-color: white;
+  color: white;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px;
+  text-align: center;
+}
+
+.brand {
+  margin: 0;
+  font-size: 50px;
+  z-index: 10;
+  cursor: grab;
+}
+
+body {
+  background: #1db9e0;
+  background: linear-gradient(
+    47deg,
+    rgba(29, 185, 224, 1) 0%,
+    rgba(118, 219, 196, 1) 50%,
+    rgba(83, 193, 237, 1) 100%
+  );
+}
