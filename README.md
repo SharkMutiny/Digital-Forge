@@ -221,7 +221,13 @@ L. Multimedia Player Page
 #### *Calculator Project: JavaScript*
 - Calculator Project
 #### *Using JavaScript in Websites*
--
+- Photo Gallery
+- Swiper Gallery
+- Popmotion
+- Dogs AJAX
+- Dog Breed App
+- Feed-A-Mole Game
+
 
 <br>
 <br>
