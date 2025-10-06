@@ -200,8 +200,19 @@ L. Multimedia Player Page
 <br>
 <br>
 
+# Scrimba
+## Fullstack Path
+#### Introduction
+#### HTML and CSS Fundamentals
+- Google Clone
+#### JavaScript Fundamentals
+
+
+<br>
+<br>
+
 # Frontend Masters
-## Bootcamp
+## Bootcamp (Complete)
 #### *Introduction to HTML*
 - Basic HTML
 #### *Introduction to CSS*
@@ -227,21 +238,10 @@ L. Multimedia Player Page
 - Dogs AJAX
 - Dog Breed App
 - Feed-A-Mole Game
-
-
+#### *Career Guidance*
 <br>
 <br>
 
-# Scrimba
-## Fullstack Path
-#### Introduction
-#### HTML and CSS Fundamentals
-- Google Clone
-#### JavaScript Fundamentals
-
-
-<br>
-<br>
 
 # Misc
 - Slot Machine
