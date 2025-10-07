@@ -108,7 +108,9 @@ L. Debug Pet Page
 W. Cat Photo App  
 L. Recipe Page  
 L. Travel Agency Page  
+L. HTML Audio and Video Player  
 W. Heart Icon  
+W. Video Display using iFrame  
 L. Video Compilation Page  
 ### Semantic HTML
 W. Cat Blog Page  
