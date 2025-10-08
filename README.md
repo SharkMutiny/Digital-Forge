@@ -1,4 +1,4 @@
-### A list of lessons I have completed whilst learning.
+### A list of lessons I have completed.
 ***
 # freeCodeCamp
 ### Certified Full Stack Developer Curriculum
@@ -43,6 +43,7 @@ L. Profile Lookup
 L. String Repeating Function  
 L. Missing Letter Detector
 #### JavaScript Fundamentals Review
+L. Largest Number Finder  
 
 
 
@@ -207,7 +208,10 @@ L. Multimedia Player Page
 #### Introduction
 #### HTML and CSS Fundamentals
 - Google Clone
+- Personal Site
 #### JavaScript Fundamentals
+- Counter App
+- Basketball Scoreboard -Solo Project
 
 
 <br>
