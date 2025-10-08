@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Cursed Timer ULiL';
+    src: url(./fonts/CursedTimerUlil-Aznm.ttf) format('truetype');
+}
+
+body {
+    margin: 0;
+    font-family: Verdana, sans-serif;
+    background-color: #1B244A;
+    color: #eee;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 575px;
+    margin: 0 auto;
+   
+    
+}
+
+h3 {
+    text-align: center;
+    font-size: 36px;
+    margin: 0;
+    padding: 1rem;
+    font-weight: 700;
+}
+
+.score {
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    height: 120px;
+    font-family: Cursed Timer ULiL, sans-serif;
+    color: #F94F6D;
+    background-color: #080001;
+}
+
+button {
+    padding: 1rem;
+    margin: 5px auto;
+    font-size: 25px;
+    background-color: #1B244A;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Cursed Timer ULiL, sans-serif;
+}
+
+button:hover {
+    background-color: #9AABD8;
+    color: #1B244A;
+}
+
+button:active {
+    transform: scale(0.98);
+}
+
+.reset {
+    margin: 20px auto;
+    width: 200px;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.reset:hover {
+    background-color: #F94F6D;
+    color: #1B244A;
+}
+
+.reset:active {
+    transform: scale(0.98);
+}
