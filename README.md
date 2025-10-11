@@ -44,11 +44,16 @@ L. String Repeating Function
 L. Missing Letter Detector
 #### JavaScript Fundamentals Review
 L. Largest Number Finder  
+L. First Element Finder  
+L. Slice and Splice Algorithm  
+L. Pyramid Generator  
+
+L. Password Generator  
 
 
 
 
-
+git 
 ## CSS (Complete)
 #### Basic CSS
 W. Cafe Menu  
@@ -164,7 +169,7 @@ L. Multimedia Player Page
 #### *CSS Grid and CSS Layout*
 - CSS Grid
 - CSS Layout
-#### *Career of a web Developer*
+#### *Career of a Web Developer*
 #### *JavaScript*
 - JavaScript Notes
 - JS Comparisons
@@ -194,6 +199,13 @@ L. Multimedia Player Page
 - Advanced Loops
 - ES2020
 - ES2023
+#### *Command Line*
+#### *Developer Environment*
+#### *Git + Github + Open Source Projects*
+#### *A Day in the Life of a Developer*
+#### *NPM + NPM Scripts*
+- Create a Portfolio
+#### *React.js Fundamentals*
 
 
 
