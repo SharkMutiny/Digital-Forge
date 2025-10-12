@@ -47,6 +47,7 @@ L. Largest Number Finder
 L. First Element Finder  
 L. Slice and Splice Algorithm  
 L. Pyramid Generator  
+L. Grade Book App  
 
 L. Password Generator  
 
@@ -220,6 +221,7 @@ L. Multimedia Player Page
 - Google Clone
 - Personal Site
 - Google Clone Again
+- Digital Business Card
 #### JavaScript Fundamentals
 - Counter App
 - Basketball Scoreboard -Solo Project
