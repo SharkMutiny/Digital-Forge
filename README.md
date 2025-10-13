@@ -222,6 +222,9 @@ L. Multimedia Player Page
 - Personal Site
 - Google Clone Again
 - Digital Business Card
+- Space Exploration Layout
+- Birthday Website
+- Hometown Homepage -Solo Project
 #### JavaScript Fundamentals
 - Counter App
 - Basketball Scoreboard -Solo Project
