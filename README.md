@@ -228,6 +228,7 @@ L. Multimedia Player Page
 #### JavaScript Fundamentals
 - Counter App
 - Basketball Scoreboard -Solo Project
+- Blackjack Game
 
 
 <br>
