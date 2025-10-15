@@ -126,7 +126,8 @@ L. Survey Form
 W. Final Exams Table  
 L. Book Catalog Table  
 ### Accessibility
-W. Debug a Coding Journey Blog
+W. Debug a Coding Journey Blog  
+W. Tech Conference Schedule Table  
 L. Checkout Page  
 L. Movie Review Page  
 L. Multimedia Player Page  
