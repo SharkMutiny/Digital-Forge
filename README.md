@@ -229,6 +229,7 @@ L. Multimedia Player Page
 - Counter App
 - Basketball Scoreboard -Solo Project
 - Blackjack Game
+- Password Generator -Solo Project
 
 
 <br>
