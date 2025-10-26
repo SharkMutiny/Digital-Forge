@@ -2,7 +2,7 @@ function addTogether(...args) {
   const first  = args[0]
   const second = args[1]
 
-    if ([...args].includes(undefined)) {
+    if (args.includes(undefined)) {
         return undefined;
     }
 
