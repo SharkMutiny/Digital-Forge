@@ -231,6 +231,8 @@ L. Multimedia Player Page
 - Basketball Scoreboard -Solo Project
 - Blackjack Game
 - Password Generator -Solo Project
+- Leads Tracker Chrome Extension
+- Unit Converter -Solo Project
 
 
 <br>
