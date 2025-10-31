@@ -5,9 +5,8 @@
 // Non-alphabetical characters should remain unchanged (except for spaces).
 
 
-
-
 function spaceJam(s) {
+  // Remove spaces, convert to uppercase, and insert two spaces between characters
   let spacedString = s.replaceAll(" ", "").toUpperCase().split("").join("  ")
   return spacedString;
 }
