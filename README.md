@@ -48,8 +48,19 @@ L. First Element Finder
 L. Slice and Splice Algorithm  
 L. Pyramid Generator  
 L. Grade Book App  
-
+L. Title Case Converter  
+L. Falsy Remover  
+L. Inventory Management System  
+L. Unique Sorted Union  
 L. Password Generator  
+L. Sum All Numbers Algorithm  
+L. DNA Pair Generator  
+L. HTML Entity Converter  
+L. Odd Fibonacci Sum Calculator  
+L. Element Skipper  
+L. Optional Argument Sum Function  
+#### Higher Order Functions and Callbacks
+
 
 
 
