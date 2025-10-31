@@ -1,6 +1,6 @@
 // Advent of Code 2024 Day 1.1
 
-// import or read the inupt files
+// import and read the input.txt file
 // read column 1
 // read column 2
 // find the lowest value in each column
