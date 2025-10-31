@@ -5,6 +5,14 @@
 
 
 function factorial(n) {
-
-  return n;
+  // Initialize result to 1 (factorial of 0 is 1)
+  let result = 1;
+  // Multiply result by each integer from 1 to n
+  for (let i = 1; i <= n; i++) {
+    result *= i;
+  }
+  
+  return result;
 }
+
+// console.log(factorial(5))
