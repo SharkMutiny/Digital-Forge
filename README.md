@@ -60,7 +60,9 @@ L. Odd Fibonacci Sum Calculator
 L. Element Skipper  
 L. Optional Argument Sum Function  
 #### Higher Order Functions and Callbacks
-
+W. Library Manager  
+L. Book Organizer  
+L. Sorted Index Finder  
 
 
 
