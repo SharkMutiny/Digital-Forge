@@ -63,6 +63,7 @@ L. Optional Argument Sum Function
 W. Library Manager  
 L. Book Organizer  
 L. Sorted Index Finder  
+L. Symmetric Difference  
 
 
 
