@@ -67,6 +67,10 @@ L. Symmetric Difference
 L. Value Remover  
 L. Matching Object Filter  
 L. Prime Number Sum Calculator  
+L. 
+L. Deep Flattening Tool  
+L. All-True Property Validator  
+#### DOM Manipulation and Events
 
 
 
