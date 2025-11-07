@@ -92,6 +92,7 @@ L. Colored Boxes
 #### Styling Forms
 W. Registration Form  
 L. Contact Form  
+W. Game Settings Panel  
 #### Box Model
 W. Rothko Painting  
 L. Confidential Email  
