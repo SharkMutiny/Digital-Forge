@@ -134,12 +134,15 @@ L. Debug Profile Page
 L. Debug Pet Page  
 W. Cat Photo App  
 L. Recipe Page  
+W. Bookstore Page  
 L. Travel Agency Page  
 L. HTML Audio and Video Player  
 W. Heart Icon  
 W. Video Display using iFrame  
 L. Video Compilation Page  
 ### Semantic HTML
+W. List of Major Web Browsers  
+W. Quincy's Job Tips Page  
 W. Cat Blog Page  
 L. Event Hub  
 ### Forms and Tables
@@ -150,6 +153,7 @@ L. Book Catalog Table
 ### Accessibility
 W. Debug a Coding Journey Blog  
 W. Tech Conference Schedule Table  
+W. Accessible Audio Controller  
 L. Checkout Page  
 L. Movie Review Page  
 L. Multimedia Player Page  
