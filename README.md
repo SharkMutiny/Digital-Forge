@@ -11,7 +11,12 @@ W. Greeting Bot
 L. Trivia Bot  
 L. Sentence Maker  
 W. Teacher Chatbot 
+W. String Inspector  
+W. String Formatter  
+W. String Transformer
 #### Booleans and Numbers
+L. Debug Type Coercion Errors  
+L. Debug Increment and Decrement Operator Errors  
 W. Mathbot  
 L. Fortune Teller  
 #### Functions
@@ -93,6 +98,7 @@ L. Colored Boxes
 W. Registration Form  
 L. Contact Form  
 W. Game Settings Panel  
+L. Feature Selection Page  
 #### Box Model
 W. Rothko Painting  
 L. Confidential Email  
