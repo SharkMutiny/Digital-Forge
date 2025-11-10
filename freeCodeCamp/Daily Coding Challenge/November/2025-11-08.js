@@ -6,6 +6,12 @@
 // "invalid post" if it's too long to fit within either limit.
 
 function canPost(message) {
-
-  return message;
+    const length = message.length;
+    if (length <= 40) {
+        return "short post";
+    } else if (length <= 80) {
+        return "long post";
+    } else {
+        return "invalid post";
+    }
 }
