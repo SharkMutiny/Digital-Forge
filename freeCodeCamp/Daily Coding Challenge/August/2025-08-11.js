@@ -1,3 +1,4 @@
+// Daily Coding Challenge: August 11, 2025
 // Vowel Balance
 
 // Given a string, determine whether the number of vowels in the first half of the string is equal to the number of vowels in the second half.
