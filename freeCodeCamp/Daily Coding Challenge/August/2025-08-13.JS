@@ -1,3 +1,4 @@
+// Daily Coding Challenge: August 13, 2025
 // Fibonacci Sequence
 // The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones. When starting with 0 and 1, the first 10 numbers in the sequence are 0, 1, 1, 2, 3, 5, 8, 13, 21, 34.
 
