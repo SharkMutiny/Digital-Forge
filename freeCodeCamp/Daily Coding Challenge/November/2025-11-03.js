@@ -1,3 +1,4 @@
+// Daily Coding Challenge: November 3, 2025
 // Word Counter
 // Given a sentence string, return the number of words that are in the sentence.
 
