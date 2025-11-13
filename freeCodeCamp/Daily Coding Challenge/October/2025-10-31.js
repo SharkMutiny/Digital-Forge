@@ -1,3 +1,4 @@
+// Daily Coding Challenge: October 31, 2025
 // SpOoKy~CaSe
 // Given a string representing a variable name, convert it to "spooky case" using the following constraints:
 
