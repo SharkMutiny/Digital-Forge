@@ -1,3 +1,4 @@
+// Daily Coding Challenge: August 16, 2025
 // Anagram Checker
 // Given two strings, determine if they are anagrams of each other (contain the same characters in any order).
 
