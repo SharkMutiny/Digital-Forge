@@ -1,3 +1,4 @@
+// Daily Coding Challenge: August 15, 2025
 // Given a string, return a jumbled version of that string where each word is transformed using the following constraints:
 
 // The first and last letters of the words remain in place
