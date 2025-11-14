@@ -1,3 +1,4 @@
+// Daily Coding Challenge: November 4, 2025
 // Image Search
 // On November 4th, 2001, Google launched its image search, allowing people to find images using search terms. In this challenge, you will imitate the image search.
 
