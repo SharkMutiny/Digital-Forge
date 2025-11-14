@@ -1,3 +1,4 @@
+// Daily Coding Challenge: November 2, 2025
 // Infected
 // On November 2nd, 1988, the first major internet worm was released, infecting about 10% of computers connected to the internet after only a day.
 
