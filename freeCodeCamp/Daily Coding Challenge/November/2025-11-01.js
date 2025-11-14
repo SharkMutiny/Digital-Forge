@@ -1,3 +1,4 @@
+// Daily Coding Challenge: November 1, 2025
 // Signature Validation
 // Given a message string, a secret key string, and a signature number, determine if the signature is valid using this encoding method:
 
