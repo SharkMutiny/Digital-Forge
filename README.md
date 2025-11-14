@@ -5,7 +5,7 @@
 
 _(W) Workshop (L) Lab_  
 
-## JavaScript
+## JavaScript Certification
 #### Variables and Strings
 W. Greeting Bot  
 L. Trivia Bot  
@@ -81,7 +81,40 @@ W. Storytelling App
 
 
 
-## CSS (Complete)
+
+## Responsive Web Design Cert: (Completed Cert)
+### HTML (Complete)
+#### Basic HTML
+W. Curriculum Outline  
+L. Debug Profile Page  
+L. Debug Pet Page  
+W. Cat Photo App  
+L. Recipe Page  
+W. Bookstore Page  
+L. Travel Agency Page  
+L. HTML Audio and Video Player  
+W. Heart Icon  
+W. Video Display using iFrame  
+L. Video Compilation Page  
+#### Semantic HTML
+W. List of Major Web Browsers  
+W. Quincy's Job Tips Page  
+W. Cat Blog Page  
+L. Event Hub  
+#### Forms and Tables
+W. Hotel Feedback Form  
+L. Survey Form  
+W. Final Exams Table  
+L. Book Catalog Table  
+#### Accessibility
+W. Debug a Coding Journey Blog  
+W. Tech Conference Schedule Table  
+W. Accessible Audio Controller  
+L. Checkout Page  
+L. Movie Review Page  
+L. Multimedia Player Page  
+
+### CSS (Complete)
 #### Basic CSS
 W. Cafe Menu  
 L. Business Card  
@@ -135,48 +168,15 @@ W. Flappy Penguin
 L. Personal Portfolio  
 
 
-## HTML (Complete)
-### Basic HTML
-W. Curriculum Outline  
-L. Debug Profile Page  
-L. Debug Pet Page  
-W. Cat Photo App  
-L. Recipe Page  
-W. Bookstore Page  
-L. Travel Agency Page  
-L. HTML Audio and Video Player  
-W. Heart Icon  
-W. Video Display using iFrame  
-L. Video Compilation Page  
-### Semantic HTML
-W. List of Major Web Browsers  
-W. Quincy's Job Tips Page  
-W. Cat Blog Page  
-L. Event Hub  
-### Forms and Tables
-W. Hotel Feedback Form  
-L. Survey Form  
-W. Final Exams Table  
-L. Book Catalog Table  
-### Accessibility
-W. Debug a Coding Journey Blog  
-W. Tech Conference Schedule Table  
-W. Accessible Audio Controller  
-L. Checkout Page  
-L. Movie Review Page  
-L. Multimedia Player Page  
-
-
-## Archived Courses
-### Responsive Web Design Cert: (Completed Cert)
-### JavaScript Algorithms and Data Structures Cert:
+### Archived Courses
+#### JavaScript Algorithms and Data Structures Cert:
 - Pyramid Generator
 - Grade Book App
 - Role Playing Game
 - Random Background Color Changer
 - Calorie Counter
 
-### Legacy HTML and CSS Curriculum:
+#### Legacy HTML and CSS Curriculum:
 - Picasso Painting
 - The Odin Project - freeCodeCamp Remix (HTML & CSS)
 - Legacy Responsive Web Design Challenges  
