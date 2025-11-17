@@ -1,3 +1,4 @@
+// Daily Coding Challenge: November 10, 2025
 // Extension Extractor
 // Given a string representing a filename, return the extension of the file.
 
