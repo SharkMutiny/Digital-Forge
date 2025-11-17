@@ -76,7 +76,9 @@ L. Range-Based LCM Calculator
 L. Deep Flattening Tool  
 L. All-True Property Validator  
 #### DOM Manipulation and Events
-W. Storytelling App
+W. Storytelling App  
+W. Emoji Reactor  
+L. Favorite Icon Toggler  
 
 
 
