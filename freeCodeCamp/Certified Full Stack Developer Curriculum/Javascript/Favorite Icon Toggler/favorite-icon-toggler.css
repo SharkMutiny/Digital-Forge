@@ -1,0 +1,30 @@
+.filled {
+  color: red;
+}
+
+main {
+  margin: 100px;
+  text-align: center;
+}
+
+.favorite-icon {
+  font-size: 2rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.item-list {
+  list-style-type: none;
+  font-size: 1.5rem;
+  padding: 10px;
+}
+
+.item-list li {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding: 10px;
+}
