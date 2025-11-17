@@ -1,3 +1,4 @@
+// Daily Coding Challenge: November 12, 2025
 // Email Signature Generator
 // Given strings for a person's name, title, and company, return an email signature as a single string using the following rules:
 
