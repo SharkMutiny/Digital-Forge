@@ -1,3 +1,4 @@
+// Daily Coding Challenge: November 6, 2025
 // Weekday Finder
 // Given a string date in the format YYYY-MM-DD, return the day of the week.
 
