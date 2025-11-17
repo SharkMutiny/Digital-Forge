@@ -1,3 +1,4 @@
+// Daily Coding Challenge: November 9, 2025
 // Word Search
 // Given a matrix (an array of arrays) of single letters and a word to find, return the start and end indices of the word in the matrix.
 
