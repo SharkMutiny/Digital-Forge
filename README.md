@@ -17,6 +17,7 @@ W. String Transformer
 #### Booleans and Numbers
 L. Debug Type Coercion Errors  
 L. Debug Increment and Decrement Operator Errors  
+W. Logic Checker App  
 W. Mathbot  
 L. Fortune Teller  
 #### Functions
