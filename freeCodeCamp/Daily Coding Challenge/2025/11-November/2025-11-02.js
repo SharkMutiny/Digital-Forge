@@ -16,6 +16,7 @@
 // Return the number of total infected computers after the given amount of days have passed.
 
 function infected(days) {
+  
 
   return days;
 }
