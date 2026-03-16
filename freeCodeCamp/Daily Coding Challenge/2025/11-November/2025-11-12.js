@@ -11,6 +11,6 @@
 // For example, given "Quinn Waverly", "Founder and CEO", and "TechCo" return "--Quinn Waverly, Founder and CEO at TechCo".
 
 function generateSignature(name, title, company) {
-
+  
   return name;
 }
