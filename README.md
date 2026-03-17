@@ -145,6 +145,7 @@ W. Rothko Painting
 L. Confidential Email  
 #### Flexbox
 W. Flexbox Photo Gallery  
+W. Colorful Boxes Layout
 L. Playing Cards  
 #### Typography
 W. Nutrition Label  
