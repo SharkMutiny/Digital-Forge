@@ -95,6 +95,8 @@ W. Cat Photo App
 L. Recipe Page  
 W. Bookstore Page  
 L. Travel Agency Page  
+W. HTML Music Player
+W. HTML Video Player
 L. HTML Audio and Video Player  
 W. Heart Icon  
 W. Video Display using iFrame  
@@ -113,6 +115,7 @@ L. Book Catalog Table
 W. Debug a Coding Journey Blog  
 W. Tech Conference Schedule Table  
 W. Accessible Audio Controller  
+L. Debug Donation Form
 L. Checkout Page  
 L. Movie Review Page  
 L. Multimedia Player Page  
@@ -127,6 +130,7 @@ L. Blog Post Card
 L. Event Flyer  
 #### Pseudo Classes and Elements
 W. Greeting Card  
+W. Parent Teacher Conference Form
 L. Job Application Form  
 #### Colors
 W. Colored Markers  
