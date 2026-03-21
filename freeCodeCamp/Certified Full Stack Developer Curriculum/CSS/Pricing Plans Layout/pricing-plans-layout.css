@@ -1,0 +1,26 @@
+.pricing-container {
+  border: 1px dashed blue;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pricing-card {
+border: 2px solid black;
+display: flex;
+flex-direction: column;
+flex: 0 0 200px;
+justify-content: space-between;
+}
+
+.basic-plan {
+  order: 0;
+}
+
+.pro-plan {
+  order: 1;
+  flex-grow: 2;
+}
+
+.premium-plan {
+  order: 2;
+}
