@@ -18,7 +18,7 @@ W. String Transformer
 L. Debug Type Coercion Errors  
 L. Debug Increment and Decrement Operator Errors  
 W. Logic Checker App  
-W. Mathbot  
+W. MathBot  
 L. Fortune Teller  
 #### Functions
 W. Calculator  
@@ -36,6 +36,8 @@ L. Lunch Picker
 L. Golf Score Translator  
 L. String Inverter  
 #### Objects
+W. Wildlife Tracker
+L. Cargo Manifest Validator
 W. Recipe Tracker  
 L. Quiz Game  
 L. Record Collection  
@@ -46,6 +48,7 @@ L. Factorial Calculator
 L. Mutations Algorithm  
 L. Chunky Monkey Algorithm  
 L. Profile Lookup  
+W. Space Mission Roster
 L. String Repeating Function  
 L. Missing Letter Detector
 #### JavaScript Fundamentals Review
